@@ -4,7 +4,7 @@ This is my home page! My name is Enrique Becerra and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/ebecerra11.
+My GitHub page is http://github.com/ebecerra11
 
 ### CPSC 120
 
